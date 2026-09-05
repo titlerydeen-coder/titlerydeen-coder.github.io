@@ -40,3 +40,15 @@
 * **Databases & Querying:** SQL (SQLite, PostgreSQL, MySQL), Relational Modeling, Performance Indexing
 * **BI & Data Tools:** Microsoft Power BI (DAX, Power Query), Microsoft Excel
 * **Core Focus:** Operational Efficiency, Root Cause & Defect Analysis, Relational Schema Architecture
+## 📜 Certifications & Credentials
+
+---
+
+* **CS50’s Introduction to Databases with SQL** – *Harvard University / HarvardX*  
+  [Verify Credential](Certificates/CS50-SQL.pdf)
+
+* **Microsoft Power BI Data Analyst** – *Microsoft*  
+  [Verify Credential](Certificates/Microsoft-Power-BI-Data-Analyst.pdf)
+
+* **Google AI Professional Certificate** – *Google*  
+  [Verify Credential](Certificates/Google-AI-Professional-Certificate.pdf)
