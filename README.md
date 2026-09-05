@@ -24,7 +24,7 @@
 * **Core Metrics:** Evaluated 1,000 defects with a 33.30% Critical rate; total repair cost incurred was $507,627.15 ($507.63 avg/defect).
 * **Cost Distribution:** Structural defects contributed the highest expense (35.2% share), concentrated heavily in surface damage ($63K+).
 * **Impact:** Evaluated monthly cost trends (Jan–Jun) alongside testing methodologies to streamline defect prevention.
-* [📄 View Full Report (PDF)](Prpject/QA-Analysis.pdf)
+* [📄 View Full Report (PDF)](Project/QA-Analysis.pdf)
 
 ---
 
