@@ -44,11 +44,24 @@
 
 ---
 
-* **CS50’s Introduction to Databases with SQL** – *Harvard University / HarvardX*  
-  [Verify Credential](Certificates/CS50-SQL.pdf)
-
 * **Microsoft Power BI Data Analyst** – *Microsoft*  
   [Verify Credential](Certificates/Microsoft-Power-BI-Data-Analyst.pdf)
 
 * **Google AI Professional Certificate** – *Google*  
   [Verify Credential](Certificates/Google-AI-Professional-Certificate.pdf)
+  
+* **CS50’s Introduction to Databases with SQL** – *Harvard University / HarvardX*  
+  [Verify Credential](Certificates/CS50-SQL.pdf)
+
+* **SQL for Data Science** – *University of California,David*
+* [Verify Credential](Certificates/SQL-for-Data-Science.pdf)
+
+* **Excel Skills for Business: Intermediate I** – *Macquarie University*
+* [Verify Credential](Certificates/Excel-Skills-for-Business-Intermediate-I.pdf)
+
+* **Enterprise Systems** – *University of Minnesota*
+* [Verify Credential](Certificates/Excel-Skills-for-Business-Intermediate-I.pdf)
+
+* **Lean Six Sigma Yellow Belt** – *AIGPE*
+* [Verify Credential](Certificates/Enterprise-Systems.pdf)
+  
