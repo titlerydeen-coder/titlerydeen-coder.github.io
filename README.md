@@ -50,7 +50,7 @@
   
 * **CS50’s Introduction to Databases with SQL** – *Harvard University / HarvardX* | [Verify Credential](Certificates/CS50-SQL.pdf)
 
-* **SQL for Data Science** – *University of California, Davis* | Verify Credential](Certificates/SQL-for-Data-Science.pdf)
+* **SQL for Data Science** – *University of California, Davis* | [Verify Credential](Certificates/SQL-for-Data-Science.pdf)
 
 * **Excel Skills for Business: Intermediate I** – *Macquarie University* | [Verify Credential](Certificates/Excel-Skills-for-Business-Intermediate-I.pdf)
 
