@@ -48,7 +48,7 @@
 
 * **Google AI Professional Certificate** – *Google* | [Verify Credential](Certificates/Google-AI-Professional-Certificate.pdf)
   
-* **CS50’s Introduction to Databases with SQL** – *Harvard University / HarvardX* | [Verify Credential](Certificates/CS50-SQL.pdf)
+* **CS50’s Introduction to Databases with SQL** – *Harvard University / HarvardX* | [Verify Credential](Certificates/HarvardX-CS50-SQL-Certificate_edX.pdf)
 
 * **SQL for Data Science** – *University of California, Davis* | [Verify Credential](Certificates/SQL-for-Data-Science.pdf)
 
