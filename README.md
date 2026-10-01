@@ -40,6 +40,9 @@
 * **Databases & Querying:** SQL (SQLite, PostgreSQL, MySQL), Relational Modeling, Performance Indexing
 * **BI & Data Tools:** Microsoft Power BI (DAX, Power Query), Microsoft Excel
 * **Core Focus:** Operational Efficiency, Root Cause & Defect Analysis, Relational Schema Architecture
+
+---
+
 ### 📜 Certifications & Credentials
 * **Microsoft Power BI Data Analyst** – *Microsoft* | [Verify Credential](Certificates/Microsoft-Power-BI-Data-Analyst.pdf)
 
