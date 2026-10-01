@@ -63,8 +63,8 @@
 
 * **Excel Skills for Business: Intermediate I** – *Macquarie University* | [Verify Credential](Certificates/Excel-Skills-for-Business-Intermediate-I.pdf)
 
-* **Enterprise Systems** – *University of Minnesota* | [Verify Credential](Certificates/Lean-Six-Sigma-Yellow-Belt.pdf)
+* **Enterprise Systems** – *University of Minnesota* | [Verify Credential](Certificates/Enterprise-Systems.pdf)
 
-* **Lean Six Sigma Yellow Belt** – *AIGPE* | [Verify Credential](Certificates/Enterprise-Systems.pdf)
+* **Lean Six Sigma Yellow Belt** – *AIGPE* | [Verify Credential](Certificates/Lean-Six-Sigma-Yellow-Belt.pdf)
 
   ---
