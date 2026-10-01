@@ -42,8 +42,6 @@
 * **Core Focus:** Operational Efficiency, Root Cause & Defect Analysis, Relational Schema Architecture
 ## 📜 Certifications & Credentials
 
----
-
 * **Microsoft Power BI Data Analyst** – *Microsoft* | [Verify Credential](Certificates/Microsoft-Power-BI-Data-Analyst.pdf)
 
 * **Google AI Professional Certificate** – *Google* | [Verify Credential](Certificates/Google-AI-Professional-Certificate.pdf)
