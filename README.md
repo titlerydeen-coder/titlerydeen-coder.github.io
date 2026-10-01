@@ -4,7 +4,7 @@
 
 ---
 
-###📌 Current Project: AI-Powered Quality Analytics & SPC System(Gemini AI & Power BI Data)
+### Current Project: AI-Powered Quality Analytics & SPC System(Gemini AI & Power BI Data)
 * **Core Metrics:** Processed 584,007 produced units and 21,172 defects (3.63% defect rate / 36,253 PPM) across 33 injection molding machines and 192 part numbers.
 * **Statistical Process Control (SPC) & Pareto:** Visualized defect distributions via Pareto analysis (Setup Virgin leading at 24.7%) alongside automated SPC Control Charts ($CL: 1,411$, $UCL: 2,622$, $LCL: 201$) to separate common-cause variation from outlier machine performance.
 * **GenAI Agent Integration:** Embedded Google AI Studio (Gemini 2.5 Flash API) to automate real-time root cause analysis, evaluate process stability, and generate frontline Kaizen action plans (e.g., venting audits, injection pressure consistency, and scientific molding setup).
