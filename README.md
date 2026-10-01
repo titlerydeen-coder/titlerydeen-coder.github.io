@@ -10,6 +10,7 @@
 * **GenAI Agent Integration:** Embedded Google AI Studio (Gemini 2.5 Flash API) to automate real-time root cause analysis, evaluate process stability, and generate frontline Kaizen action plans (e.g., venting audits, injection pressure consistency, and scientific molding setup).
 * **Impact & MoM Performance:** Monitored month-over-month (MoM) variance, tracking a -43.88% reduction in overall defects (-16,554 QTY) to pinpoint priority machines and support data-driven quality decisions.
 * [📄 View Full Report (PDF)](Project/App-Web.pdf)
+
 ---
 
 ### 1. Factory Operations Database Management
