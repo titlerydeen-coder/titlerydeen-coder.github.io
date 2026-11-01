@@ -58,6 +58,8 @@
 * **Microsoft Power BI Desktop for Business Intelligence** - *Maven Analytics* | [Verify Credential](Certificates/Maven-Analytics.pdf)
 
 * **Google AI Professional Certificate** – *Google* | [Verify Credential](Certificates/Google-AI-Professional-Certificate.pdf)
+
+* **Prompt Engineering Specialization** – *Vanderblit University* | [Verify Credential](Certificates/Prompt-Engineering-Specialization.pdf)
   
 * **CS50’s Introduction to Databases with SQL** – *Harvard University / HarvardX* | [Verify Credential](Certificates/HarvardX-CS50-SQL-Certificate_edX.pdf)
 
