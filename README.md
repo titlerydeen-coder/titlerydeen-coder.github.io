@@ -46,9 +46,10 @@
 ---
 
 ### 🛠️ Skills & Tools
-* **Databases & Querying:** SQL (SQLite, PostgreSQL, MySQL), Relational Modeling, Performance Indexing
-* **BI & Data Tools:** Microsoft Power BI (DAX, Power Query), Microsoft Excel
-* **Core Focus:** Operational Efficiency, Root Cause & Defect Analysis, Relational Schema Architecture
+* **Data Analysis & Visualization: Microsoft Power BI, Microsoft Excel (Intermediate / Data Analysis)
+* **Database & SQL: SQLite, PostgreSQL, MySQL
+* **Software & AI Integration: Prompt Engineering, Google AI Studio, Gemini API, Vibe Coding
+* **Tools: Microsoft Office Suite (Word, PowerPoint, Excel), Google Workspace (Docs, Sheets, Slides, Drive) 
 
 ---
 
