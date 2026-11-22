@@ -68,6 +68,8 @@
 
 * **Excel Skills for Business: Intermediate I** – *Macquarie University* | [Verify Credential](Certificates/Excel-Skills-for-Business-Intermediate-I.pdf)
 
+* **Human Resources Analytics** – *University of California, Irvine* | [Verify Credential](Certificates/Human-Resourses-Analystics.pdf)
+
 * **Enterprise Systems** – *University of Minnesota* | [Verify Credential](Certificates/Enterprise-Systems.pdf)
 
 * **Lean Six Sigma Yellow Belt** – *AIGPE* | [Verify Credential](Certificates/Lean-Six-Sigma-Yellow-Belt.pdf)
