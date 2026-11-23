@@ -1,6 +1,6 @@
 # 📊 Data Analytics & Operations Portfolio
 **Pattarachanan Rachatanan** | Data Analyst / Operations Specialist  
-[LinkedIn](https://www.linkedin.com/in/ptrcn/) • [GitHub Repositories](https://github.com/titlerydeen-coder)
+[LinkedIn](https://www.linkedin.com/in/ptrcn/) • [Credly](https://www.credly.com/users/ptrcn/badges/credly) • [GitHub Repositories](https://github.com/titlerydeen-coder)
 
 ---
 
